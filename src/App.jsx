@@ -6,10 +6,10 @@ const App = () => {
   return (
     <div className='container'  style={{background : "black", display : "flex",align: "center", alignItems:"center", overflow : "hidden"}}>
  <div className='container'  style={{background : "black", display : "flex",align: "center", alignItems:"center",padding: "5px", overflow : "hidden"}}>
- <h2>Telegram  </h2> <FaTelegram style={{color : "#24A1DE", fontSize : "30px", marginLeft : "15px"}}/> <h2  >@TraderSadnan1</h2> <span></span>
+ <h2>Telegram  </h2> <FaTelegram style={{color : "#24A1DE", fontSize : "25px", marginLeft : "15px"}}/> <h2  >@TraderSadnan1</h2> <span></span>
 
-  <h2>Youtube  </h2> <FaYoutube  style={{color : "#FF0000", fontSize : "30px", marginLeft : "15px"}}/> <h2  >@TraderSadnan</h2><span></span>
-  <h2>Message ME </h2> <FaTelegram style={{color : "#24A1DE", fontSize : "30px", marginLeft : "15px"}}/> <h2  >@TraderSadnan</h2> 
+  <h2>Youtube  </h2> <FaYoutube  style={{color : "#FF0000", fontSize : "25px", marginLeft : "15px"}}/> <h2  >@TraderSadnan</h2><span></span>
+  <h2>Message ME </h2> <FaTelegram style={{color : "#24A1DE", fontSize : "25px", marginLeft : "15px"}}/> <h2  >@TraderSadnan</h2> 
 
     </div>
    
